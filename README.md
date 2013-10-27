@@ -1,3 +1,3 @@
 yaraparreno
 ===========
-En colaboracion por Juan David Echeverri
+En colaboracion con Juan David Echeverri
